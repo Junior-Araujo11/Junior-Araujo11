@@ -19,5 +19,6 @@
 <br />
 
 **Especialidades**
+
 ![RPA](https://img.shields.io/badge/RPA-Automa%C3%A7%C3%A3o%20de%20Processos-blue?style=for-the-badge)
 ![APIs & Webhooks](https://img.shields.io/badge/APIs%20%26%20Webhooks-Integra%C3%A7%C3%A3o-orange?style=for-the-badge)

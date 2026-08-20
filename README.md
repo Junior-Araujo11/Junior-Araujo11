@@ -34,8 +34,7 @@ Desenvolvedor especializado em **Automação de Processos (RPA)**, **Integraçõ
 ![APIs & Webhooks](https://img.shields.io/badge/APIs%20%26%20Webhooks-Integra%C3%A7%C3%A3o-orange?style=for-the-badge)
 
 ---
+### 📬 Contato
 
-### 📬 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAnior-araujo-a85967256/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jrjunior756@gmail.com)

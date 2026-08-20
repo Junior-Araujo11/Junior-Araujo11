@@ -2,7 +2,7 @@
 
 Desenvolvedor especializado em **Automação de Processos (RPA)**, **Integrações (APIs/Webhooks)** e **Banco de Dados**.
 
-🚀 **Fundador na Codexa Tech** — Desenvolvo sistemas de atendimento automatizado (como o Ozzy via WhatsApp), sistemas de gestão e automações sob medida para empresas.
+🚀 Fundador na Codexa Tech — Desenvolvo o Ozzy e um painel de atendimento multiempresarial (multi-tenant), com IA integrada via WhatsApp. Administro banco de dados via SQL no Supabase, organizando e estruturando tabelas.
 
 🏥 **Desenvolvedor de Automação na IMAG Medicina Diagnóstica** — Atuo criando bots para faturamento, autorização de exames, agendamentos e automação de rotinas financeiras com integração direta em SQL.
 

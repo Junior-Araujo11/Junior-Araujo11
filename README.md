@@ -1,4 +1,4 @@
-# Olá, eu sou o Júnior Araujo 👋
+# Olá, sou Júnior Araujo 👋
 
 Desenvolvedor especializado em **Automação de Processos (RPA)**, **Integrações (APIs/Webhooks)** e **Banco de Dados**.
 

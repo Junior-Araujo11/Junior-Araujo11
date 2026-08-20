@@ -18,7 +18,6 @@
 
 <br />
 
-**Automação, RPA & Desenvolvimento Assistido por IA**
+**Especialidades**
 ![RPA](https://img.shields.io/badge/RPA-Automa%C3%A7%C3%A3o%20de%20Processos-blue?style=for-the-badge)
 ![APIs & Webhooks](https://img.shields.io/badge/APIs%20%26%20Webhooks-Integra%C3%A7%C3%A3o-orange?style=for-the-badge)
-![AI Assisted](https://img.shields.io/badge/AI--Driven%20Dev-OpenAI%20%2F%20Prompt%20Eng-green?style=for-the-badge)

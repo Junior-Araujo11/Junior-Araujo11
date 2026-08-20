@@ -21,7 +21,6 @@ Desenvolvedor especializado em **Automação de Processos (RPA)**, **Integraçõ
 
 **Banco de Dados & SQL**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="SQL / MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" />
 </div>
 
